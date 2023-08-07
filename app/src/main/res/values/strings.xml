@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hello">Hello</string>
+    <string name="backspace"><![CDATA[<-]]></string>
+    <string name="clr">Clr</string>
+    <string name="percentage">%</string>
+</resources>
